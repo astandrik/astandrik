@@ -24,4 +24,17 @@
 
 ----
 
-<img src="https://github-readme-stats.vercel.app/api/?username=astandrik&show_icons=true&locale=en&show=reviews,prs_merged&hide=contribs,stars,prs&theme=tokyonight&include_all_commits=true" alt="astandrik github stats" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=astandrik&label=Profile%20views&color=0e75b6&style=flat" alt="astandrik" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=astandrik" alt="astandrik" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=astandrik&show_icons=true&locale=en&layout=compact" alt="astandrik" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=astandrik&show_icons=true&locale=en" alt="astandrik" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=astandrik&" alt="astandrik" /></p>
+
