@@ -2,7 +2,7 @@
 
 <h3 align="left"> 📫 Contacts:</h3>
 - Email: astandrik@gmail.com <br>
-- Telegram: <a href="https://t.me/astandrik" alt="Telegram">@astandrik</a>
+- Telegram: <a href="https://t.me/astandrik" alt="Telegram">@astandrik</a> <br>
 - Linkedin: <a href="https://www.linkedin.com/in/astandrik/" alt="Linkedin">astandrik</a>
 
 
