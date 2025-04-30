@@ -1,0 +1,74 @@
+{
+  "providerProfiles": {
+    "currentApiConfigName": "profile-coder",
+    "migrations": {
+      "rateLimitSecondsMigrated": true,
+      "diffSettingsMigrated": true
+    }
+  },
+  "globalSettings": {
+    "lastShownAnnouncementId": "apr-23-2025-3-14",
+    "customInstructions": "AFTER you finish your task doublecheck if it is possible to do it better, cleaner, more maintainable or with better performance",
+    "autoApprovalEnabled": true,
+    "alwaysAllowReadOnly": true,
+    "alwaysAllowReadOnlyOutsideWorkspace": false,
+    "alwaysAllowWrite": false,
+    "alwaysAllowWriteOutsideWorkspace": false,
+    "writeDelayMs": 1000,
+    "alwaysAllowBrowser": false,
+    "alwaysApproveResubmit": true,
+    "requestDelaySeconds": 5,
+    "alwaysAllowMcp": false,
+    "alwaysAllowModeSwitch": false,
+    "alwaysAllowSubtasks": false,
+    "alwaysAllowExecute": false,
+    "allowedCommands": [
+      "npm test",
+      "npm install",
+      "tsc",
+      "git log",
+      "git diff",
+      "git show"
+    ],
+    "browserToolEnabled": true,
+    "browserViewportSize": "900x600",
+    "screenshotQuality": 75,
+    "remoteBrowserEnabled": false,
+    "enableCheckpoints": true,
+    "ttsEnabled": false,
+    "ttsSpeed": 1,
+    "soundEnabled": false,
+    "soundVolume": 0.5,
+    "maxOpenTabsContext": 20,
+    "maxWorkspaceFiles": 200,
+    "showRooIgnoredFiles": true,
+    "terminalOutputLineLimit": 1000,
+    "terminalShellIntegrationTimeout": 5000,
+    "terminalCommandDelay": 0,
+    "terminalPowershellCounter": false,
+    "terminalZshClearEolMark": true,
+    "terminalZshOhMy": false,
+    "terminalZshP10k": false,
+    "terminalZdotdir": false,
+    "terminalCompressProgressBar": true,
+    "rateLimitSeconds": 0,
+    "diffEnabled": true,
+    "fuzzyMatchThreshold": 1,
+    "experiments": {
+      "powerSteering": false
+    },
+    "language": "en",
+    "telemetrySetting": "enabled",
+    "mcpEnabled": true,
+    "mode": "code",
+    "customModes": [],
+    "customModePrompts": {
+      "code": {
+        "customInstructions": "BEFORE writing any code:\n  • Pause and enumerate every plausible user scenario the code might face — typical flows, edge-cases, and potential misuse or abuse patterns.\n\nAFTER completing the code:\n  • Revisit that full scenario list (plus any new ones you\n    now foresee) and verify the implementation behaves\n    safely, correctly, and predictably for each case."
+      },
+      "architect": {
+        "customInstructions": "1. Do some information gathering (for example using read_file or search_files) to get more context about the task.\n\n2. You should also ask the user clarifying questions to get a better understanding of the task.\n\n3. Once you've gained more context about the user's request, you should create a detailed plan for how to accomplish the task. Include Mermaid diagrams if they help make your plan clearer.\n\n4. Ask the user if they are pleased with this plan, or if they would like to make any changes. Think of this as a brainstorming session where you can discuss the task and plan the best way to accomplish it.\n\n5. Once the user confirms the plan, ask them if they'd like you to write it to a markdown file.\n\n6. Use the switch_mode tool to request that the user switch to another mode to implement the solution."
+      }
+    }
+  }
+}
