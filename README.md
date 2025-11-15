@@ -41,14 +41,10 @@
 </p>
 
 ----
-
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=astandrik.visitor-badge)
-
-----
 ![](https://leetcard.jacoblin.cool/astandrik?ext=heatmap)
 
 ----
 
-![Visitor Count](https://profile-counter.glitch.me/astandrik/count.svg)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=astandrik.visitor-badge)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
