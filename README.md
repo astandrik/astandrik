@@ -42,7 +42,7 @@
 
 ----
 
-![](https://github-readme-stats.vercel.app/api?username=astandrik&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=astandrik.visitor-badge)
 
 ----
 ![](https://leetcard.jacoblin.cool/astandrik?ext=heatmap)
