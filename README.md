@@ -26,6 +26,11 @@
 
 </p>
 
+[![Jedi Codex pet](https://pets.ydb-qdrant.tech/card/jedi-blue-lightsaber.gif?mode=sprite&scale=1&state=idle)](https://pets.ydb-qdrant.tech/pets/jedi-blue-lightsaber)
+
+[![Codex pet: Jedi](https://pets.ydb-qdrant.tech/badge/jedi-blue-lightsaber.svg)](https://pets.ydb-qdrant.tech/pets/jedi-blue-lightsaber)
+
+
 ----
 
 
