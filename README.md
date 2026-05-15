@@ -26,10 +26,23 @@
 
 </p>
 
-[![Jedi Codex pet](https://pets.ydb-qdrant.tech/card/jedi-blue-lightsaber.gif?mode=sprite&scale=1&state=idle)](https://pets.ydb-qdrant.tech/pets/jedi-blue-lightsaber)
-
-[![Codex pet: Jedi](https://pets.ydb-qdrant.tech/badge/jedi-blue-lightsaber.svg)](https://pets.ydb-qdrant.tech/pets/jedi-blue-lightsaber)
-
+<p align="center">
+  <a href="https://pets.ydb-qdrant.tech/pets/jedi-blue-lightsaber">
+    <img alt="Jedi Codex pet" src="https://pets.ydb-qdrant.tech/card/jedi-blue-lightsaber.gif?mode=sprite&scale=1&state=idle">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://pets.ydb-qdrant.tech/pets/vi">
+    <img alt="Vi Codex pet" src="https://pets.ydb-qdrant.tech/card/vi.gif?mode=sprite&scale=1&state=idle">
+  </a>
+  <br>
+  <a href="https://pets.ydb-qdrant.tech/pets/jedi-blue-lightsaber">
+    <img alt="Codex pet: Jedi" src="https://pets.ydb-qdrant.tech/badge/jedi-blue-lightsaber.svg">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://pets.ydb-qdrant.tech/pets/vi">
+    <img alt="Codex pet: Vi" src="https://pets.ydb-qdrant.tech/badge/vi.svg">
+  </a>
+</p>
 
 ----
 
