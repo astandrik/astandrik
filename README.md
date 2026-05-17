@@ -7,20 +7,20 @@
 
 
 <p align="center">
-  <a href="https://pets.ydb-qdrant.tech/pets/jedi-blue-lightsaber">
-    <img alt="Jedi Codex pet" src="https://pets.ydb-qdrant.tech/card/jedi-blue-lightsaber.gif?mode=sprite&scale=1&state=idle">
+  <a href="https://pets.ydb-qdrant.tech/pets/sephiroth-2">
+    <img alt="Jedi Codex pet" src="https://pets.ydb-qdrant.tech/card/sephiroth-2.gif?mode=sprite&scale=1&state=idle">
   </a>
   &nbsp;&nbsp;
-  <a href="https://pets.ydb-qdrant.tech/pets/vi">
-    <img alt="Vi Codex pet" src="https://pets.ydb-qdrant.tech/card/vi.gif?mode=sprite&scale=1&state=idle">
+  <a href="https://pets.ydb-qdrant.tech/pets/cloud-flat-2">
+    <img alt="Vi Codex pet" src="https://pets.ydb-qdrant.tech/card/cloud-flat-2.gif?mode=sprite&scale=1&state=idle">
   </a>
   <br>
-  <a href="https://pets.ydb-qdrant.tech/pets/jedi-blue-lightsaber">
-    <img alt="Codex pet: Jedi" src="https://pets.ydb-qdrant.tech/badge/jedi-blue-lightsaber.svg">
+  <a href="https://pets.ydb-qdrant.tech/pets/sephiroth-2">
+    <img alt="Codex pet: Jedi" src="https://pets.ydb-qdrant.tech/badge/sephiroth-2.svg">
   </a>
   &nbsp;&nbsp;
-  <a href="https://pets.ydb-qdrant.tech/pets/vi">
-    <img alt="Codex pet: Vi" src="https://pets.ydb-qdrant.tech/badge/vi.svg">
+  <a href="https://pets.ydb-qdrant.tech/pets/cloud-flat-2">
+    <img alt="Codex pet: Vi" src="https://pets.ydb-qdrant.tech/badge/cloud-flat-2.svg">
   </a>
 </p>
 
