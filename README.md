@@ -6,23 +6,7 @@
 - Linkedin: <a href="https://www.linkedin.com/in/astandrik/" alt="Linkedin">astandrik</a>
 
 
-<p align="center">
-  <a href="https://pets.ydb-qdrant.tech/pets/sephiroth-2">
-    <img alt="Jedi Codex pet" src="https://pets.ydb-qdrant.tech/card/sephiroth-2.gif?mode=sprite&scale=1&state=idle">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://pets.ydb-qdrant.tech/pets/cloud-flat-2">
-    <img alt="Vi Codex pet" src="https://pets.ydb-qdrant.tech/card/cloud-flat-2.gif?mode=sprite&scale=1&state=idle">
-  </a>
-  <br>
-  <a href="https://pets.ydb-qdrant.tech/pets/sephiroth-2">
-    <img alt="Codex pet: Jedi" src="https://pets.ydb-qdrant.tech/badge/sephiroth-2.svg">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://pets.ydb-qdrant.tech/pets/cloud-flat-2">
-    <img alt="Codex pet: Vi" src="https://pets.ydb-qdrant.tech/badge/cloud-flat-2.svg">
-  </a>
-</p>
+<a id="cy-effective-orcid-url" class="underline" href="https://orcid.org/0009-0004-3091-4951" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align: top"> <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width: 1em; margin-inline-start: 0.5em" alt="ORCID iD icon"/> https://orcid.org/0009-0004-3091-4951 </a>
 
 <div align="center">
   <picture>
