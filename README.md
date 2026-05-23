@@ -30,7 +30,7 @@
 ----
 
 
-![](https://github-readme-stats.vercel.app/api?username=astandrik&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![GitHub Readme Stats](https://raw.githubusercontent.com/astandrik/astandrik/output/github-readme-stats.svg)
 
 ----
 ![](https://leetcard.jacoblin.cool/astandrik?ext=heatmap)

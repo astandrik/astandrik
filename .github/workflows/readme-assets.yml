@@ -1,21 +1,19 @@
-name: CI
+name: README assets
 
 on:
   schedule:
-    - cron: "0 */1 * * *" 
-
+    - cron: "17 3 * * *"
   workflow_dispatch:
-
   push:
     branches:
-      - master
+      - main
 
 jobs:
-  snake:
-    permissions: 
+  build:
+    permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
 
     steps:
       - name: Generate snake SVG
@@ -26,7 +24,16 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push snake SVG to output branch
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&theme=dark&hide_border=false&include_all_commits=false&count_private=false
+          path: dist/github-readme-stats.svg
+          core_version: 2.1.2
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push README assets to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
