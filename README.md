@@ -32,8 +32,6 @@
 
 ![GitHub Readme Stats](https://raw.githubusercontent.com/astandrik/astandrik/output/github-readme-stats.svg)
 
-----
-![](https://leetcard.jacoblin.cool/astandrik?ext=heatmap)
 
 ----
 
