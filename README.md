@@ -1,40 +1,22 @@
-## Hi there 👋
+# Anton Standrik
 
-<h3 align="left"> 📫 Contacts:</h3>
-- Email: astandrik@gmail.com <br>
-- Telegram: <a href="https://t.me/astandrik" alt="Telegram">@astandrik</a> <br>
-- Linkedin: <a href="https://www.linkedin.com/in/astandrik/" alt="Linkedin">astandrik</a>
+I'm a senior software engineer at Yandex, working on YDB interfaces and developer tooling, mostly in TypeScript.
 
+In open source, I build tools for vector search, local database operations, CI, and coding agents. I spend a lot of time on the boring parts too: tests, reproducible setups, failure modes, and permission boundaries.
 
-<a id="cy-effective-orcid-url" class="underline" href="https://orcid.org/0009-0004-3091-4951" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align: top"> <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width: 1em; margin-inline-start: 0.5em" alt="ORCID iD icon"/> https://orcid.org/0009-0004-3091-4951 </a>
+## Selected work
 
-<div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/astandrik/crawlstack-centipede/output/github-contribution-grid-crawlstack-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/astandrik/crawlstack-centipede/output/github-contribution-grid-crawlstack.svg"
-    />
-    <img
-      alt="github-contribution-grid-crawlstack"
-      src="https://raw.githubusercontent.com/astandrik/crawlstack-centipede/output/github-contribution-grid-crawlstack.svg"
-    />
-  </picture>
-</div>
+* **[ydb-qdrant](https://github.com/astandrik/ydb-qdrant):** a Qdrant-compatible vector search service and TypeScript library backed by YDB.
+* **[local-ydb-toolkit](https://github.com/astandrik/local-ydb-toolkit):** a Codex skill and MCP server for operating Docker-based local YDB deployments.
+* **[my_instructions](https://github.com/astandrik/my_instructions):** project-neutral instructions for coding agents, with an eval harness that tests whether they actually change agent behavior.
+* **[gravity-ai-ui](https://github.com/astandrik/gravity-ai-ui):** a UI generator that validates model output and renders it using trusted Gravity UI components.
+* **[setup-local-ydb](https://github.com/astandrik/setup-local-ydb):** a GitHub Action for provisioning disposable local YDB tenants in CI.
+* **[codex-pets](https://github.com/astandrik/codex-pets):** a YDB-backed gallery and MCP service for Codex-compatible animated pets.
 
+## Open source contributions
 
+I contribute to [YDB](https://github.com/search?q=org%3Aydb-platform+author%3Aastandrik+is%3Apr&type=pullrequests) and [Gravity UI](https://github.com/search?q=org%3Agravity-ui+author%3Aastandrik+is%3Apr&type=pullrequests), mostly across frontend development, diagnostics, component APIs, and developer tooling.
 
-----
+## Contact
 
-
-![GitHub Readme Stats](https://raw.githubusercontent.com/astandrik/astandrik/output/github-readme-stats.svg)
-
-
-----
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=astandrik.visitor-badge)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[LinkedIn](https://www.linkedin.com/in/astandrik/) · [Telegram](https://t.me/astandrik) · [Email](mailto:astandrik@gmail.com) · [ORCID](https://orcid.org/0009-0004-3091-4951)
