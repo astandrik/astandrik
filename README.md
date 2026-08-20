@@ -1,6 +1,6 @@
 # Anton Standrik
 
-I'm a senior software engineer at Yandex, working on YDB interfaces and developer tooling, mostly in TypeScript.
+I'm a Lead Software Engineer at Yandex, working on YDB interfaces and developer tooling, mostly in TypeScript.
 
 In open source, I build tools for vector search, local database operations, CI, and coding agents. I spend a lot of time on the boring parts too: tests, reproducible setups, failure modes, and permission boundaries.
 
@@ -15,7 +15,11 @@ In open source, I build tools for vector search, local database operations, CI, 
 
 ## Open source contributions
 
-I contribute to [YDB](https://github.com/search?q=org%3Aydb-platform+author%3Aastandrik+is%3Apr&type=pullrequests) and [Gravity UI](https://github.com/search?q=org%3Agravity-ui+author%3Aastandrik+is%3Apr&type=pullrequests), mostly across frontend development, diagnostics, component APIs, and developer tooling.
+I contribute to [YDB](https://github.com/search?q=org%3Aydb-platform+author%3Aastandrik+is%3Apr&type=pullrequests), [Gravity UI](https://github.com/search?q=org%3Agravity-ui+author%3Aastandrik+is%3Apr&type=pullrequests), and [codebase-memory-mcp](https://github.com/search?q=repo%3ADeusData%2Fcodebase-memory-mcp+author%3Aastandrik+is%3Apr&type=pullrequests). Most of that work is in frontend code, diagnostics, component APIs, developer tooling, and test infrastructure.
+
+## Writing
+
+I wrote [how semantic search works in Codex Pets](https://habr.com/ru/articles/1067576/). It covers embeddings, hybrid ranking, YDB storage, and fallback paths. The article is in Russian.
 
 ## Contact
 
