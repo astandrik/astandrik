@@ -19,7 +19,7 @@ I contribute to [YDB](https://github.com/search?q=org%3Aydb-platform+author%3Aas
 
 ## Writing
 
-I wrote [how semantic search works in Codex Pets](https://habr.com/ru/articles/1067576/). It covers embeddings, hybrid ranking, YDB storage, and fallback paths. The article is in Russian.
+I wrote [how semantic search works in Codex Pets](https://habr.com/ru/articles/1067576/). It covers embeddings, hybrid ranking, YDB storage, and fallback paths.
 
 ## Contact
 
