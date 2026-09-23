@@ -1,6 +1,6 @@
 # Anton Standrik
 
-I'm a Lead Software Engineer at Yandex, working on YDB interfaces and developer tooling, mostly in TypeScript.
+I'm a Lead Software Engineer at Yandex. I work on YDB's web interfaces and developer tooling, mostly in TypeScript, and I'm one of the code owners of [ydb-embedded-ui](https://github.com/ydb-platform/ydb-embedded-ui), the web UI built into YDB.
 
 In open source, I build tools for vector search, local database operations, CI, and coding agents. I spend a lot of time on the boring parts too: tests, reproducible setups, failure modes, and permission boundaries.
 
@@ -15,7 +15,9 @@ In open source, I build tools for vector search, local database operations, CI, 
 
 ## Open source contributions
 
-I contribute to [YDB](https://github.com/search?q=org%3Aydb-platform+author%3Aastandrik+is%3Apr&type=pullrequests), [Gravity UI](https://github.com/search?q=org%3Agravity-ui+author%3Aastandrik+is%3Apr&type=pullrequests), and [codebase-memory-mcp](https://github.com/search?q=repo%3ADeusData%2Fcodebase-memory-mcp+author%3Aastandrik+is%3Apr&type=pullrequests). Most of that work is in frontend code, diagnostics, component APIs, developer tooling, and test infrastructure.
+Most of my open-source work is in [YDB Embedded UI](https://github.com/search?q=repo%3Aydb-platform%2Fydb-embedded-ui+author%3Aastandrik+is%3Apr+is%3Amerged&type=pullrequests): 300+ merged PRs covering diagnostics pages, the query editor, the AI assistant integration, component APIs, and Playwright e2e infrastructure. I also send occasional C++ fixes to [YDB core](https://github.com/search?q=repo%3Aydb-platform%2Fydb+author%3Aastandrik+is%3Apr+is%3Amerged&type=pullrequests) (KQP query statistics, HTTP/TLS startup).
+
+Elsewhere: [Gravity UI](https://github.com/search?q=org%3Agravity-ui+author%3Aastandrik+is%3Apr&type=pullrequests), [codebase-memory-mcp](https://github.com/search?q=repo%3ADeusData%2Fcodebase-memory-mcp+author%3Aastandrik+is%3Apr&type=pullrequests), and the [codebase-memory-mcp skill](https://github.com/github/awesome-copilot/tree/main/skills/codebase-memory-mcp) in GitHub's awesome-copilot, which I added and maintain.
 
 ## Writing
 
